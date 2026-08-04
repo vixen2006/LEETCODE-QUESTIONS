@@ -8,8 +8,6 @@ public:
             ans.push_back(ds);
             return;
         }
-
-        // Try every element from idx onwards
         for (int i = idx; i < arr.size(); i++) {
 
             // Skip duplicates
@@ -20,13 +18,10 @@ public:
             if (arr[i] > target)
                 break;
 
-            // Pick the element
             ds.push_back(arr[i]);
 
-            // Move to next index because one element can be used only once
             find_combination(i + 1, target - arr[i], arr, ans, ds);
 
-            // Backtrack
             ds.pop_back();
         }
     }
