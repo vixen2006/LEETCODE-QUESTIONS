@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0039-combination-sum) |
 | [0287-find-the-duplicate-number](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
