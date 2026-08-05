@@ -2,6 +2,11 @@ class Solution {
 public:
     
     void find_subsets(int idx , vector<int>& arr , vector<vector<int>>& ans , vector<int>& ds){
+        // if(idx == arr.size()){
+        //     ans.push_back(ds);
+        //     return ;
+        // }
+
         ans.push_back(ds);
 
         for( int i =  idx ; i < arr.size() ; i++){
