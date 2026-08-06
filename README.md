@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/vixen2006/LEETCODE-QUESTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
