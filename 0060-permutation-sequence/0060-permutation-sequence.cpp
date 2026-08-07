@@ -18,10 +18,10 @@ public:
 
         string ans = "";
 
-        k -= 1 ;
+        k -= 1 ; // 0 based indexing
 
         while(true){
-             ans += to_string(arr[k/fact]);
+             ans += to_string(arr[k/fact]); 
 
              arr.erase(arr.begin() + k/fact);
 
