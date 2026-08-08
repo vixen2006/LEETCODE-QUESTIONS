@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool backtrack( vector<vector<char>>& board , string& word , int i , int j , int idx){
+    bool backtrack( vector<vector<char>>& board , string word , int i , int j , int idx){
 
         if (idx == word.length()) return true;
 
